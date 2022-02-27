@@ -2,7 +2,7 @@
 
 
 ## Demo Video
-<a href="https://1drv.ms/v/s!AiOj4yVSmxYLiOIErW2k7anSBvwxHw?e=FTxUB5" target="_blank"><img src="picture_from_outside.png"alt="Video for locomotion" width="240" height="180" border="10" /></a>
+<a href="https://1drv.ms/v/s!AiOj4yVSmxYLiOIErW2k7anSBvwxHw?e=FTxUB5" target="_blank"><img src="https://1drv.ms/u/s!AiOj4yVSmxYLiOQPLbYZoxyOKsbuNg?e=FUCoAe" alt="Video for Locomotion from inside and outside" width="240" height="180" border="10" /></a>
 
 
 ## How to play
